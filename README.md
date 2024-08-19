@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lynda! </h1>
+<h1>Hi, I'm Lynda!</h1>
 
 <h2>👨‍💻 Tech Projects:</h2>
 
