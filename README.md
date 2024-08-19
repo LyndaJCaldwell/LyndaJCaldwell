@@ -3,9 +3,9 @@
 <h2>👨‍💻 Tech Projects:</h2>
 
 - <b>Nano (Castle Build) </b>
-  - [Gitpod Linux Programming](https://github.com/LyndaJCaldwell/Nano-Build-a-Castle-GitHub)
+  - [Gitpod Linux Programming Castle Build](https://github.com/LyndaJCaldwell/Nano-Build-a-Castle-GitHub)
 - <b>Cat Photo App (HTML5)</b>
-  - [Image Analysis Middleware](https://github.com/LyndaJCaldwell/Cat-Photo-App-HTML) <b><i></b></i>
+  - [Cat Photo App](https://github.com/LyndaJCaldwell/Cat-Photo-App-HTML) <b><i></b></i>
 
 <h2>📺 Popular YouTube Videos</h2>
 
