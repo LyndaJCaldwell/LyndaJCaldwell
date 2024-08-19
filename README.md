@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lynda!</h1>
 
-<h2>👨‍💻 Tech Projects:</h2>
+<h2>👨‍💻 Tech Projects Screenshots:</h2>
 
 - <b>Nano (Castle Build) </b>
   - [Gitpod Linux Programming Castle Build](https://github.com/LyndaJCaldwell/Nano-Build-a-Castle-GitHub)
