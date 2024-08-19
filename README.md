@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Tech Projects:</h2>
 
-- <b>Practicing Nano using Linux to Build a Castle </b>
-  - [Gitpod Programming](https://github.com/LyndaJCaldwell/Nano-Build-a-Castle-GitHub)
+- <b>Used Nano to build a Castle </b>
+  - [Gitpod Linux Programming](https://github.com/LyndaJCaldwell/Nano-Build-a-Castle-GitHub)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://laughing-space-dollop-q79rqx47jrvj24gv7.github.dev) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
